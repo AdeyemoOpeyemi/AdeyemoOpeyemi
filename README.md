@@ -62,5 +62,10 @@
 
 > 💡 “Data is not just numbers — it’s a tool to empower, educate, and build communities.”
 
-[![Adeyemo Opeyemi's GitHub stats](https://github-readme-stats.vercel.app/api?username=AdeyemoOpeyemi&show_icons=true&theme=radical)](https://github.com/AdeyemoOpeyemi/github-readme-stats)
+## 📊 GitHub Stats
 
+[![Adeyemo Opeyemi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AdeyemoOpeyemi&show_icons=true&theme=onedark)](https://github.com/AdeyemoOpeyemi/github-readme-stats)
+
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AdeyemoOpeyemi&layout=compact&theme=onedark)](https://github.com/AdeyemoOpeyemi/github-readme-stats)
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=AdeyemoOpeyemi&theme=onedark)](https://github.com/AdeyemoOpeyemi)
